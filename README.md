@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Zustin
 - 👀 I’m interested in Software Engineering and Programming Language.
-- 🌱 I’m currently learning different Static Analysis Tools.
+- 🌱 I’m currently learning different Static Analysis Techniques.
